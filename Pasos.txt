@@ -1,0 +1,8 @@
+Primeiro é mellor probar a dirección stática
+
+Ahora que a conexión wifi funciona e se conecta sen problema vamos intentar pola no proxecto cos nifs e comprobar como se mostran os datos por pantalla.
+
+A pesar de conectarme con erlang remote terminal non mostra o shell. O shell para todo o que estea a facer a placa para executalo, por eso se corte e non mostra o shell, porque non está funcionando erlang ata que non o paras.
+
+Vamos executar algúns comandos a ver se son capaz de mostrar por pantalla o que executan, e non me refiro a mostrar os datos cando se executa, refírome a gardalos nunha variable e despois mostralos cun print.
+
